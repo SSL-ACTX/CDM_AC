@@ -1,0 +1,33 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Test - PZA</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Test - PZA</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Pizza.vcxproj" File="Pizza.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">Pizza.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Pizza.cpp">Pizza.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="PizzaDlg.cpp">PizzaDlg.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="stdafx.cpp">stdafx.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Pizza.h">Pizza.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="PizzaDlg.h">PizzaDlg.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Resource.h">Resource.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="stdafx.h">stdafx.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="targetver.h">targetver.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Pizza.rc">Pizza.rc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Pizza.ico">RES\Pizza.ico</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Pizza.rc2">RES\Pizza.rc2</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ReadMe.txt">ReadMe.txt</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

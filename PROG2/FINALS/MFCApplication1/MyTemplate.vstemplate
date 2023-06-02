@@ -1,0 +1,33 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>MFCApplication1</Name>
+    <Description>Basics 1</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>MFCApplication1</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="MFCApplication1.vcxproj" File="MFCApplication1.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">MFCApplication1.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MFCApplication1.cpp">MFCApplication1.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MFCApplication1Dlg.cpp">MFCApplication1Dlg.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="stdafx.cpp">stdafx.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MFCApplication1.h">MFCApplication1.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MFCApplication1Dlg.h">MFCApplication1Dlg.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="stdafx.h">stdafx.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="targetver.h">targetver.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Resource.h">Resource.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MFCApplication1.rc">MFCApplication1.rc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MFCApplication1.rc2">RES\MFCApplication1.rc2</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MFCApplication1.ico">RES\MFCApplication1.ico</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ReadMe.txt">ReadMe.txt</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
