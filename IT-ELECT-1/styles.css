@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/80/ec/fc/80ecfcc146113595ec16942fcb838703.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navigation {
+    display: flex;
+    margin: 25px 25px 25px 25px;
+    width: 1550px;
+    height: 55px;
+    border-radius: 12px;
+    background-color: rgba(255, 187, 178, 0.699);
+}
+
+li {
+    font-family: "Trirong", serif;
+    font-size: 18px;
+    display: inline-block;
+    margin: 15px 25px 0 25px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.main {
+    margin-left: 20px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgba(255, 154, 154, 0.548);
+    border: 20px 20px 20px 20px;
+    border-radius: 12px;
+    text-align: center;
+    padding: 12px 12px 12px 12px;
+}
+
+
+.tit1 {
+    font-size: 17px;
+    font-family: "Trirong", serif;
+    padding: 0 100px 12px 100px;
+}
+
+.tit2 {
+    font-size: 17px;
+    font-family: "Trirong", serif;
+    padding: 0 100px 12px 100px;
+    padding-top: 12px;
+}
+
+
+.price {
+    font-size: 13px;
+    font-family: "Trirong", serif;
+}
+
+.img1 {
+    width: 190px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.img2 {
+    width: 190px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+
+.maintit {
+    font-size: 40px;
+    font-family: "Sofia", sans-serif;
+    text-align: right;
+    position: fixed;
+    margin-left: 850px;
+    margin-top: 240px;
+    background-color: rgba(255, 137, 107, 0.486);
+    border: 10px 10px 10px 10px;
+    border-radius: 12px;
+}
+
