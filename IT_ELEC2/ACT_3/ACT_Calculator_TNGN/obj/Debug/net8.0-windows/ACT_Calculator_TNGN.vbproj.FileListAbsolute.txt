@@ -1,0 +1,16 @@
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.Form1.resources
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.vbproj.GenerateResource.cache
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.AssemblyInfoInputs.cache
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.AssemblyInfo.vb
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.vbproj.CoreCompileInputs.cache
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\bin\Debug\net8.0-windows\ACT_Calculator_TNGN.exe
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\bin\Debug\net8.0-windows\ACT_Calculator_TNGN.deps.json
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\bin\Debug\net8.0-windows\ACT_Calculator_TNGN.runtimeconfig.json
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\bin\Debug\net8.0-windows\ACT_Calculator_TNGN.dll
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\bin\Debug\net8.0-windows\ACT_Calculator_TNGN.pdb
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.dll
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\refint\ACT_Calculator_TNGN.dll
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.pdb
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ACT_Calculator_TNGN.genruntimeconfig.cache
+C:\Users\Seuriin\source\repos\ACT_Calculator_TNGN\ACT_Calculator_TNGN\obj\Debug\net8.0-windows\ref\ACT_Calculator_TNGN.dll

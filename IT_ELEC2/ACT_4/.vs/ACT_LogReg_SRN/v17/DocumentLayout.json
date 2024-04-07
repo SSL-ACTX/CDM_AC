@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FUJITSU\\Source\\Repos\\ACT_LogReg_SRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C45BB38F-4E7F-452D-A513-924BFCC0F80E}|ACT_LogReg_SRN\\ACT_LogReg_SRN.vbproj|c:\\users\\fujitsu\\source\\repos\\act_logreg_srn\\act_logreg_srn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C45BB38F-4E7F-452D-A513-924BFCC0F80E}|ACT_LogReg_SRN\\ACT_LogReg_SRN.vbproj|solutionrelative:act_logreg_srn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45BB38F-4E7F-452D-A513-924BFCC0F80E}|ACT_LogReg_SRN\\ACT_LogReg_SRN.vbproj|c:\\users\\fujitsu\\source\\repos\\act_logreg_srn\\act_logreg_srn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C45BB38F-4E7F-452D-A513-924BFCC0F80E}|ACT_LogReg_SRN\\ACT_LogReg_SRN.vbproj|solutionrelative:act_logreg_srn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\FUJITSU\\Source\\Repos\\ACT_LogReg_SRN\\ACT_LogReg_SRN\\Form1.vb",
+              "RelativeDocumentMoniker": "ACT_LogReg_SRN\\Form1.vb",
+              "ToolTip": "C:\\Users\\FUJITSU\\Source\\Repos\\ACT_LogReg_SRN\\ACT_LogReg_SRN\\Form1.vb",
+              "RelativeToolTip": "ACT_LogReg_SRN\\Form1.vb",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwIIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-16T13:04:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\FUJITSU\\Source\\Repos\\ACT_LogReg_SRN\\ACT_LogReg_SRN\\Form1.vb",
+              "RelativeDocumentMoniker": "ACT_LogReg_SRN\\Form1.vb",
+              "ToolTip": "C:\\Users\\FUJITSU\\Source\\Repos\\ACT_LogReg_SRN\\ACT_LogReg_SRN\\Form1.vb [Design]",
+              "RelativeToolTip": "ACT_LogReg_SRN\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-16T12:07:34.509Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

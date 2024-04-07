@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ACT_Calculator_TNGN/1.0.0": {
+        "runtime": {
+          "ACT_Calculator_TNGN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT_Calculator_TNGN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
