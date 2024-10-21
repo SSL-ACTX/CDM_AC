@@ -1,2 +1,2 @@
 # CDM_AC
-Uni.' activities, projects, and exams.
+College activities, projects, and exams.
